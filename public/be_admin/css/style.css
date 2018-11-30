@@ -1,0 +1,16 @@
+/*.custom_table th{
+	text-align: center;
+}*/
+.custom_table td,th{
+	vertical-align: middle !important;
+	text-align: center;
+}
+.w-70{
+	width: 70%;
+}
+.pt-3{
+	padding-top: 15px;
+}
+.img-fluid{
+	max-width: 100%;
+}
